@@ -65,3 +65,6 @@ I wrote two scripts. One to generate test data and one to test all the file syst
 - dd
 - zip
 - unzip
+
+# LICENSE
+The content of this project itself is licensed under the Creative Commons Attribution 4.0 International license, and the source code of bash scripts is licensed under the GNU General Public License v3.0.
