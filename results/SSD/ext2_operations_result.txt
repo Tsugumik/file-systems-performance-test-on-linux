@@ -1,0 +1,16 @@
+# Read speed test
+
+/dev/nvme1n1p6:
+ Timing buffered disk reads: 5342 MB in  3.00 seconds = 1780.59 MB/sec
+# Copying a 3.8 GB file test
+real 4,90
+user 0,00
+sys 4,77
+# Copying a directory with 100 files test
+real 1,25
+user 0,00
+sys 1,19
+# Copying a directory with 30000 files test
+real 1,34
+user 0,04
+sys 1,26

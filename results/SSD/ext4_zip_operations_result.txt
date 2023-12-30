@@ -1,0 +1,12 @@
+# Compressing a 3.8 GB file test
+real 77,96
+user 73,47
+sys 3,95
+# Compressing a directory with 100 files test
+real 19,93
+user 18,80
+sys 1,11
+# Compressing a directory with 30000 files test
+real 3,73
+user 2,90
+sys 0,82
