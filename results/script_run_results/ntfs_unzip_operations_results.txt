@@ -1,0 +1,12 @@
+# Decompressing a 3.8 GB file test
+real 94,88
+user 37,19
+sys 8,89
+# Decompressing a directory with 100 files test
+real 24,70
+user 9,66
+sys 2,70
+# Decompressing a directory with 30000 files test
+real 38,56
+user 3,11
+sys 8,72
