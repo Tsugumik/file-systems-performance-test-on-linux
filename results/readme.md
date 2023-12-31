@@ -40,7 +40,7 @@ The summary includes a brief conclusion and a chart made in Microsoft Excel
 ![Decompression time of 30000 files of 8 KB each chart](./charts/decompression_time_of_30000_files_of_8_KB_each_limited_x_to_250.png)
 
 #### Limit x to 700
-![Decompression time of 30000 files of 8 KB each chart](./charts/decompression_time_of_30000_files_of_8_KB_each_limited_x_to_250.png)
+![Decompression time of 30000 files of 8 KB each chart](./charts/decompression_time_of_30000_files_of_8_KB_each_limited_x_to_700.png)
 
 ## Conclusion
 The results are expected, although at some points I am surprised that the performance of NTFS and FAT32 is so bad. I was positively surprised by the performance of HFS+.
