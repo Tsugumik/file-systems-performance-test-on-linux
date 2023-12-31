@@ -22,7 +22,6 @@ In this project, I wanted to measure the performance of different file systems o
 Test partition size: 25 GB
 - SSD NVMe Toshiba KBG40ZNT512G 0.5 TB
 - SSD NVMe Kingston A2000 0,5 TB
-- USB 3.0 Flash Drive Kingston DTSE9 G2 64 GB
 
 ### Operating system
 - Manjaro Linux x86_64
@@ -42,8 +41,6 @@ Test partition size: 25 GB
   - 30000 files, each 8 KB
 - Compression time for created files using zip command (seconds)
 - Decompression time for created archives using unzip command (seconds)
-
-For testing the USB drive, data is copied to it from the Kingston A2000 SSD, formatted with the EXT4 file system.
 
 For testing the Kingston A2000 SSD, data is copies to it from the Toshiba SSD, formated with the EXT4 file system.
 
@@ -66,3 +63,6 @@ I wrote two scripts. One to generate test data and one to test all the file syst
 - zip
 - unzip
 - Microsoft Excel
+
+# LICENSE
+The content of this project itself is licensed under the Creative Commons Attribution 4.0 International license, and the source code of bash scripts is licensed under the GNU General Public License v3.0.
