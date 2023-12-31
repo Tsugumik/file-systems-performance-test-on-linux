@@ -2,6 +2,8 @@
 
 In this project, I wanted to measure the performance of different file systems on Linux.
 
+Test results and charts are available in [results](./results).
+
 ## Tested file systems
 - NTFS
 - FAT32
@@ -63,6 +65,7 @@ I wrote two scripts. One to generate test data and one to test all the file syst
 - zip
 - unzip
 - Microsoft Excel
+
 
 # LICENSE
 The content of this project itself is licensed under the Creative Commons Attribution 4.0 International license, and the source code of bash scripts is licensed under the GNU General Public License v3.0.
