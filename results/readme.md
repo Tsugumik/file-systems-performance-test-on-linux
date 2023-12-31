@@ -1,4 +1,4 @@
-# SSD Summary
+# Summary
 The summary includes a brief conclusion and a chart made in Microsoft Excel
 
 ## Read speed
