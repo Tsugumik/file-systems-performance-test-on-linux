@@ -1,0 +1,16 @@
+# Read speed test
+
+/dev/sdb2:
+ Timing buffered disk reads: 220 MB in  3.02 seconds =  72.96 MB/sec
+# Copying a 3.8 GB file test
+real 39,96
+user 0,01
+sys 5,82
+# Copying a directory with 100 files test
+real 13,67
+user 0,00
+sys 1,49
+# Copying a directory with 30000 files test
+real 4,67
+user 0,07
+sys 1,44

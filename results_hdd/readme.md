@@ -1,4 +1,4 @@
-# Summary
+# Summary (HDD)
 The summary includes a brief conclusion and a chart made in Microsoft Excel
 
 ## Read speed
@@ -40,9 +40,7 @@ The summary includes a brief conclusion and a chart made in Microsoft Excel
 ![Decompression time of 30000 files of 8 KB each chart](./charts/decompression_time_of_30000_files_of_8_KB_each_limited_x_to_250.png)
 
 #### Limit x to 700
-![Decompression time of 30000 files of 8 KB each chart](./charts/decompression_time_of_30000_files_of_8_KB_each_limited_x_to_700.png)
+![Decompression time of 30000 files of 8 KB each chart](./charts/decompression_time_of_30000_files_of_8_KB_each_limited_x_to_1000.png)
 
 ## Conclusion
-The results are expected, although at some points I am surprised that the performance of NTFS and FAT32 is so bad. I was positively surprised by the performance of HFS+.
-
-It is impossible to say which file system on Linux is the best. Often the differences are so small that they are probably due more to measurement error than actual file system performance.
+The results are interesting, they are slightly different than on the SSD. NTFS turned out to be much better here than on the SSD. Even when copying 100 files of 10 MB each, it comes in second place!
