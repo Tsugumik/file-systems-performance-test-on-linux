@@ -30,6 +30,8 @@ Test partition size: 25 GB
   - SSD SATA Patriot Burst 120 GB
   - WD (Red) WDC WD10EFRX-68F 1 TB
 
+**The SSD was tested on a laptop and the HDD on a server.**
+
 ### Operating system
 - Laptop
   - Manjaro Linux x86_64
